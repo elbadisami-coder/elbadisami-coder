@@ -1,6 +1,7 @@
-# elbadisami# 
 💫 About Me:
-💻 Software Developer | Web & Mobile 🚀 Building modern apps with Laravel, Vue.js, and ASP.NET 🌱 Always learning and improving
+💻 Software Developer | Web & Mobile 
+🚀 Building modern apps with Laravel, Vue.js, and ASP.NET 
+🌱 Always learning and improving
 
 
 ## 🌐 Socials:
